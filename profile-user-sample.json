@@ -1,0 +1,112 @@
+{
+    "data": {
+        "firstName": "حمیدرضا",
+        "lastName": "قویدل",
+        "name": "حمیدرضا قویدل",
+        "gender": "Male",
+        "skills": {
+            "items": [
+                {
+                    "id": 1395128,
+                    "skill_id": "Qkr2XD9REc",
+                    "skill_Title": "برنامه نویسی کامپیوتر",
+                    "level": 6
+                }
+            ]
+        },
+        "educations": {
+            "items": [
+                {
+                    "id": 1395129,
+                    "uni_id": "JLeAjkcVtM",
+                    "uni_Title": "دانشگاه قم",
+                    "from": "2014-10-03T00:00:00Z",
+                    "to": "2018-06-01T00:00:00Z",
+                    "grade": "Bachelor",
+                    "field_id": "koMsm9jrOw",
+                    "field_Title": "مهندسی برق مخابرات"
+                }
+            ]
+        },
+        "experiences": {
+            "items": [
+                {
+                    "id": 1395129,
+                    "place_Title": "Wallex",
+                    "jobRole_Title": "Backend Developer",
+                    "from": "2019-06-01T00:00:00Z"
+                }
+            ]
+        },
+        "languages": {
+            "items": [
+                {
+                    "id": 1395129,
+                    "code": "en",
+                    "level": "Intermediate"
+                }
+            ]
+        },
+        "id": "L7KROReSFO",
+        "urlName": "hamidrezaghavidel",
+        "status": "Published",
+        "type": "UserProfile",
+        "shortDescription": "برنامه نویس وب",
+        "thumbnailImageId": "o2axPoDmbm",
+        "thumbnailImageUrl": "thumbs/L7KROReSFO/o2axPoDmbm.jpg",
+        "coverImageId": "bpJlMCSFgk",
+        "coverImageUrl": "covers/L7KROReSFO/bpJlMCSFgk.jpg",
+        "bio": "برنامه نویس وب , Back-end Developer",
+        "cardSettings": {
+            "bgOpacity": 0.7,
+            "bgColor": "c1",
+            "bgColorOpacity": 1.0,
+            "theme": "light"
+        },
+        "tags": [
+            "برنامه_نویس",
+            "متخصص",
+            "باحوصله",
+            "بافکر",
+            "سخت_کوش",
+            "سرسخت",
+            "فعال",
+            "مشتاق",
+            "آرمانگرا",
+            "رک",
+            "برنامه_نویسی_کامپیوتر",
+            "موسیقی",
+            "تولید_نرم_افزار",
+            "اختراع",
+            "پادکست",
+            "ستاره_شناسی",
+            "فعالیت_های_کامپیوتری",
+            "بازی_های_کامپیوتری",
+            "تکنولوژی",
+            "کارآفرینی",
+            "نوآوری",
+            "سینما",
+            "استارتاپ"
+        ],
+        "contactLinks": {
+            "spotlightPhraseId": "dY7xAMcC6w",
+            "spotlightSocialName": "linkedin",
+            "items": [
+                {
+                    "name": "telegram",
+                    "url": "https://telegram.me/hamidreza_94"
+                },
+                {
+                    "name": "instagram",
+                    "url": "https://instagram.com/hamidreza.ghavidel"
+                },
+                {
+                    "name": "linkedin",
+                    "url": "https://www.linkedin.com/in/hamidreza-ghavidel-387a2b179"
+                }
+            ]
+        },
+        "followersCount": 1,
+        "followingCount": 5
+    }
+}
